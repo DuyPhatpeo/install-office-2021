@@ -13,8 +13,7 @@ Tải và giải nén gói cài đặt. Sau khi giải nén, bạn sẽ thấy t
 - Chuột phải vào tệp **Active Office 2021 C2R.exe**
 - Chọn **Run as Administrator**
 - Khi cửa sổ công cụ mở lên, chuyển sang tab **Utilities and Settings**
-- Chọn **Office RETAIL → VL** để chuyển đổi từ bản Retail sang Volume
-
+- Chọn bản Office bạn muốn để tải
 ---
 
 ## 3. Kích hoạt Office
